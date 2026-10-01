@@ -1,0 +1,17 @@
+# File generati da Python
+__pycache__/
+*.pyc
+
+# Notebook: checkpoint automatici di Jupyter
+.ipynb_checkpoints/
+
+# Segreti e configurazioni locali: MAI nel repository
+.env
+*.key
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Cache dei test
+.pytest_cache/
