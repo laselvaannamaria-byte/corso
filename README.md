@@ -75,7 +75,7 @@ Istruzioni e collaudo nella cartella [`agenti/`](agenti/). Un eventuale agente p
 
 ## Artefatti
 
-Inserire qui il link a un eventuale esercitatore SQL pubblicato nella cartella [`artefatti/`](artefatti/).
+ Usa il [Laboratorio SQL interattivo](artefatti/laboratorio-sql.html): un esercitatore autonomo per esplorare tabelle e provare query `SELECT`, `INSERT`, `UPDATE`, `DELETE` e `CREATE TABLE`.
 
 ## Verifiche
 
